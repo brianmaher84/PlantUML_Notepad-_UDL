@@ -13,7 +13,7 @@
             <Keywords name="Numbers, suffix1"></Keywords>
             <Keywords name="Numbers, suffix2"></Keywords>
             <Keywords name="Numbers, range"></Keywords>
-            <Keywords name="Operators1">@startuml @enduml [-&gt; :-&gt;</Keywords>
+            <Keywords name="Operators1">--&gt; -left-&gt; -right-&gt; -up-&gt; -down-&gt;&#x000D;&#x000A;&lt;-- &lt;-left- &lt;-right- &lt;-up- &lt;-down-&#x000D;&#x000A;--|&gt; -left-|&gt; -right-|&gt; -up-|&gt; -down-|&gt;&#x000D;&#x000A;&lt;|-- &lt;|-left- &lt;|-right- &lt;|-up- &lt;|-down-&#x000D;&#x000A;-- -left- -right- -up- -down-&#x000D;&#x000A;-&gt; -left&gt; -right&gt; -up&gt; -down&gt;&#x000D;&#x000A;&lt;- &lt;-left &lt;-right &lt;-up &lt;-down&#x000D;&#x000A;-|&gt; -left|&gt; -right|&gt; -up|&gt; -down|&gt;&#x000D;&#x000A;&lt;|- &lt;|-left &lt;|-right &lt;|-up &lt;|-down&#x000D;&#x000A;-left -right -up -down&#x000D;&#x000A;..&gt; .left.&gt; .right.&gt; .up.&gt; .down.&gt;&#x000D;&#x000A;&lt;.. &lt;.left. &lt;.right. &lt;.up. &lt;.down.&#x000D;&#x000A;..|&gt; .left.|&gt; .right.|&gt; .up.|&gt; .down.|&gt;&#x000D;&#x000A;&lt;|.. &lt;|.left. &lt;|.right. &lt;|.up. &lt;|.down.&#x000D;&#x000A;.. .left. .right. .up. .down.&#x000D;&#x000A;.&gt; .left&gt; .right&gt; .up&gt; .down&gt;&#x000D;&#x000A;&lt;. &lt;.left &lt;.right &lt;.up &lt;.down&#x000D;&#x000A;.|&gt; .left|&gt; .right|&gt; .up|&gt; .down|&gt;&#x000D;&#x000A;&lt;|. &lt;|.left &lt;|.right &lt;|.up &lt;|.down&#x000D;&#x000A;.left .right .up .down</Keywords>
             <Keywords name="Operators2"></Keywords>
             <Keywords name="Folders in code1, open">{</Keywords>
             <Keywords name="Folders in code1, middle"></Keywords>
